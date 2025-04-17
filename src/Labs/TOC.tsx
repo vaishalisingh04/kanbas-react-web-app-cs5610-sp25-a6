@@ -39,13 +39,13 @@ export default function TOC() {
         </a>
       </li>
       <li className="nav-item">
-        <a id="wd-k" href="#/Kanbas" className="nav-link">
-          Kanbas
+        <a id="wd-k" href="#/kambaz" className="nav-link">
+          kambaz
         </a>
       </li>
-      <li className="nav-item">
-        <a id="wd-github" className="nav-link" href="https://github.com/byteKumar/kanbas-react-web-app-cs5610-fall24"> Github Repo</a>
-      </li>
+      {/*<li className="nav-item">*/}
+      {/*  <a id="wd-github" className="nav-link" href="https://github.com/byteKumar/kambaz-react-web-app-cs5610-fall24"> Github Repo</a>*/}
+      {/*</li>*/}
     </ul>
   );
 }

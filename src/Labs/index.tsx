@@ -12,8 +12,8 @@ export default function Labs() {
   return (
     <Provider store={store}>
       <div>
-        <h1>CHAMAN
-           KUMAR</h1>
+        <h1>VAISHALI
+           SINGH</h1>
         <h1>Labs</h1>
         <TOC />
         <Routes>
